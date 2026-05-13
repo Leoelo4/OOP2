@@ -1,6 +1,6 @@
 # RetailPro – Stock Management System
 
-**Module:** PETR2134 Object Oriented Programming | Year 2, Semester 2  
+**Module:** Object Oriented Programming | Year 2, Semester 2  
 **Assignment:** Create a GUI-Based Object-Oriented Application  
 
 ---
