@@ -1,0 +1,17 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Test/cache tooling
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local app runtime data (keep folder via data/.gitkeep)
+data/stock.json
